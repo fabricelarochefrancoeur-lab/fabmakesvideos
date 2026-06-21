@@ -1,0 +1,13 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Unused font (site uses Grift)
+assets/fonts/Kurdis-VariableVF.ttf
+
+# Large source PNGs (site uses the optimized .jpg versions)
+assets/thumbnails/*.png
